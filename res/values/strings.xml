@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GlauVision</string>
+    <string name="result_image_desc">Diagnose</string>
+    <string name="newdiagnostic">New Diagnostic</string>
+    <string name="main_activity_desciption">Closed angle glaucoma detector.</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">About</string>
+    <string name="the_image_diasnoctic">The image diasnoctic</string>
+    <string name="useful_information">Useful information</string>
+    <string name="diagnosis_history">Diagnosis history</string>
+    <string name="new_diagnostic">New diagnostic</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="about">About</string>
+    <string name="about_message">Software developed by Ignacio Martin Requena.
+        For suggestions, questions or any issue please email to nachmr@gmail.com</string>
+    <string name="about_title">About</string>
+    <string name="what_is_glaucoma_title">What is glaucoma?</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
